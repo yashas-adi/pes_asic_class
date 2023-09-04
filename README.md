@@ -123,8 +123,195 @@ snap of the code and the outputs
 ![WhatsApp Image 2023-08-21 at 12 04 18](https://github.com/yashas-adi/pes_asic_class/assets/142563983/f15b1a56-e7d8-483e-a78a-eeb0e7cff152)
 
 
+Day 3 
+Labs using iverilog and gtkwave
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/8c47c57b-f5af-4a13-809e-9c879894e4fe)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/10be11ad-1927-46a8-b588-57f9e499f124)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/406f23fa-c772-4aa8-97a1-d9eef0a03cdc)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/62b4fb7f-f03e-4494-b6b7-d64d59ee055b)
+
+Labs using yosys and SKY130 PDK's
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/9bc1a34c-1ef8-4ac0-aca8-27bec398d8fe)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/d036795f-edd3-4e0a-b53d-1aa2fb9730cd)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/01612f40-3511-409c-ac83-23bb31306197)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/281078a9-a02d-45b9-8792-190e9071130e)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/1342d7dc-34c1-4d1b-8d52-b9f9e37ad11d)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/876b41f7-9fbb-4373-9a13-165359ba2c37)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/54990324-20ac-47cc-b7d5-821e31db8a2a)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/99a6a723-caeb-4e66-815e-e8e06a19a546)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/84acf4e5-0e62-447a-8daf-54cc5851b8ed)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/642b29cf-b226-49d2-bffd-124c56f54897)
+
+Labs : hierarchical synthesis
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/e5184c70-3302-4de8-849e-cd3904194054)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/0ad68782-b1e4-4a46-961f-adc7567d1ad6)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/a371a21b-01d5-4a2b-a147-20e8a31c7f3d)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/037fc0c6-2dcb-4e53-ae90-b54a62017a55)
+
+Labs : Flat synthesis 
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/e599c52d-965e-43e0-a681-16726d6c618e)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/b730767b-36d0-47ad-a7b5-2203ecf4470b)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/2f2efdf4-ca29-4416-abeb-0bb57f4a4823)
+
+Labs : Asynchronous Reset D Flip-Flop
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/a7ae380c-5af4-4b6e-adfa-33e61f216004)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/3b41b355-a1e4-4813-a7ae-67182fc4c5dc)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/e5e6eec6-3fe1-4649-8583-3c8c3e1cfe82)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/ade689ee-0430-4150-8020-55d7b21887d8)
+
+
+Asynchronous Set D Flip-Flop
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/ff2c61a2-c399-48ef-be2f-6ea895bd2c29)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/b3b986ba-1672-4130-8603-36c78177bca3)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/397e9865-58fb-401e-9764-7dd44165fa66)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/edc0095b-c027-4942-af4a-b60303662125)
+
+
+Synchronous Reset D Flip-FLop 
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/c45942d0-abb3-41bb-b3a6-53dfd80e6aec)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/ee55b85c-8582-4861-863a-7704a659a34e)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/22b4f2f4-6874-436d-9010-e63fee15a3f6)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/3b1e4ade-6372-4196-a188-f346bb99eeed)
 
 
 
+D Flip-Flop with Asynchronous Reset and Synchronous Reset
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/fd44247c-afef-43f2-b2a9-2d7469a40625)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/5569f428-aa7a-40e3-b6c4-73f7fce31514)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/e028557b-c277-4c50-ba22-00d717f8b601)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/8f03343d-4a22-4d1f-aed0-9a9a825f072e) 
+
+Interesting Optimisations 
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/5bc11a8e-0548-4ac8-87d5-4cf8b72e25cd)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/5adc6fe5-beef-4327-983c-3d425de309f4)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/eecb880a-2adf-4468-bdc0-ca9c4132314a)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/a1d5a789-b328-4eaf-9002-9897a6947dea)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/7a6675ff-f797-4f9d-9b50-b81cd78d0078)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/7decb078-9d11-4a41-81fd-6991543f05b5)
 
 
+Combinational Optimisation
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/4ea532fd-b51f-4ba6-babd-ce1973a996d6)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/1775aef6-5fa3-4d24-8089-1d852ca8bd1c)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/0acd12de-2832-4fa9-9208-3db5bde595a0)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/62ae9bed-8c13-4584-9c8f-113c90630c32)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/8420a4a6-7d56-4cb1-b4ff-8c4d994172e6)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/6f2c4351-0b91-446c-b974-cb26964bef52)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/b5169b9d-eb02-4c53-8594-1e82b2c0d0c6)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/961eb521-deec-4469-86a0-e5d1683c10eb)
+
+Sequential Logic Optimsation 
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/7678837f-9429-4f93-bfb8-e671466bdf3f)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/b30d9114-fe51-4887-a40f-1fdfd82796df)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/2ccad1c9-2427-4a86-b9d2-60938a46c46f)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/ae64d95b-0e8d-47d3-8e45-ed8cab0ad401)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/dd022781-4f0e-42d9-a931-c01c6d74e73b)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/02ae6c1b-afab-44d9-b915-82818a031b92)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/9c509e2e-978b-454d-9f67-1f8bff201ddb)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/f02d7e93-c86c-450c-95be-a1def0e7c6ff)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/be566167-3c48-4805-9fb1-6dd1274f72fb)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/8ee3b163-5fb1-44aa-8f84-cfe5e24e85ca)
+
+Sequential Optimisations for unused outputs
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/5ac0ebae-7335-4400-bf4b-c6c445b1be04)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/aa0a58ef-83f2-4b1f-a05e-6a7b665f712d)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/bf00efa5-e25e-4e4b-b611-564c6da644fc)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/da47b0eb-3ef9-46ca-a7dc-b5196b3860af)
+
+Labs on GLS and Synthesis-Simulation Mismatch
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/90e600e4-efeb-4cbb-9156-7625d8c5db0e)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/575b301d-e893-4f53-adc2-b2b908569d6f)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/7a4bd5ed-79cc-44c5-9646-fa70dc017b3b)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/ce902804-7969-47c8-b17d-b6fec8bd7b66)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/f575bd74-c4aa-42f4-8ec0-41d8c6fa377d)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/72502cd9-1d1d-40d0-b533-7ff4d652702a)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/0b953ddc-fc63-41ff-88e2-7ce1b709514f)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/bbbfb851-8e3e-4c91-ade2-6d47b8bc1311)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/19649d56-fbfe-443b-8072-90b3331db98d)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/b2bedebd-fbfb-4870-a4e0-013ca8d94141)
+
+Labs on synth-sim mismatch for blocking statement
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/28df8707-5375-458c-94d7-85e7dacd98c5)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/be1c649a-6e6f-49b4-9a36-75b469dd657a)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/1d9a8d0b-a100-4119-9e52-833972405d11)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/b6592ea6-6b60-4c04-a47e-844bdeee9551)
+
+![image](https://github.com/yashas-adi/pes_asic_class/assets/142563983/fd91342e-9b36-4c27-b7b6-43bb04568dc2)
